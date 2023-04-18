@@ -1,4 +1,4 @@
-[![Static security analysis for Terraform](https://github.com/foss-cafe/terraform-azurerm-acr/actions/workflows/checkov.yml/badge.svg?branch=main)](https://github.com/foss-cafe/terraform-azurerm-acr/actions/workflows/checkov.yml)
+[![Static security analysis for Terraform](https://github.com/foss-cafe/terraform-azurerm-db-postgresql/actions/workflows/checkov.yml/badge.svg)](https://github.com/foss-cafe/terraform-azurerm-db-postgresql/actions/workflows/checkov.yml)
 # Terraform module for Azure Postgresql
 
 ## How to use it as a module
